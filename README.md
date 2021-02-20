@@ -7,7 +7,7 @@ HEDA is Python Script that helps predict the chances of diabetes, malaria or hea
 All the models and their notebooks along with datasets have been stored in different folders for ease of access.
 The input for malaria prediction should be a valid path in order for the code to run. 
 
-### Applications
+#### Applications
  - To minimise the doctor's dependence.
  - To optimise diagnostic accuracy.
  - Increasing the efficacy of practitioners in medical care.
