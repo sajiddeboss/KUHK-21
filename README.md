@@ -26,4 +26,6 @@ The input for malaria prediction should be a valid path in order for the code to
 2. Creating a GUI based application or Web page for easy access of the models.
 3. Improving the model performances to achieve higher accuracies and better predictions. 
 
-*Made by Newbie_Noobs for KUHackFest 2021*
+##### In case of errors, Do make sure to check the requirements and versions of libraries.
+
+*Made with ❤ by Newbie_Noobs for KUHackFest 2021*
